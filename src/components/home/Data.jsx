@@ -57,7 +57,7 @@ const Data = () => {
           <h3 className="home__subtitle">Developer</h3>
           <p className="home__description">I like to code, read and understand life. I love programming and teaching programming.</p>
 
-          <a href="https://api.whatsapp.com/send?phone=5521971915094" target="_blank" className="button button--flex">
+          <a href="https://api.whatsapp.com/send?phone=5521971915094" target="_blank" rel="noreferrer" className="button button--flex">
               Say Hello
               <svg
                   class="button__icon"
